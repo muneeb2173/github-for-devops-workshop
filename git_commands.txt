@@ -1,0 +1,13 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\TeChNoFa\AppData\Local\Programs\Microsoft VS Cod...
+   2 & C:\Users\TeChNoFa\AppData\Local\Programs\Python\Python311\python... 
+   3 ls -l
+   4 ls
+   5 rm testing.py
+   6 ls
+   7 clear
+   8 ls
+   9 git init
+  10 ls -a
+  11 ls
