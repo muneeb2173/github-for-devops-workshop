@@ -11,3 +11,5 @@ Id CommandLine
    9 git init
   10 ls -a
   11 ls
+  11 ls
+  12 history
